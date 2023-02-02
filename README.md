@@ -1,6 +1,10 @@
 
 # Title of Project
 
+
+
+![1_Lci4cCUXgb6zZRyKmgWfVA](https://user-images.githubusercontent.com/114376944/216277722-504b5822-e7a2-4229-b929-846d3eb6a781.png)
+
 ### Credit Card Fraud Detection Project
 
 
@@ -23,6 +27,9 @@ The data set is downloaded from kaggle.
 To downlad the data set you can refer to this link:-
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+![credit_card_fraud](https://user-images.githubusercontent.com/114376944/216277846-763a6b15-07c9-410e-a588-c711b39541a8.PNG)
+
 
 ## Prerequisites
 The following packages and libraries are required to run this project:
